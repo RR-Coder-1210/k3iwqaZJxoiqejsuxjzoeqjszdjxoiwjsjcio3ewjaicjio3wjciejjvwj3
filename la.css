@@ -1,0 +1,31 @@
+body {
+
+    background: linear-gradient(lightyellow 0%, yellow 100% );
+    color: red;
+}
+
+#LOLO {
+
+    font-family: 'Lobster Two', cursive;
+}
+
+#Mar {
+
+    font-family: 'Lobster', cursive;
+}
+
+#lol {
+
+    text-align: center;
+}
+
+#lololplp {
+
+    font-family: 'Patrick Hand SC', cursive;
+    margin-left: 10px;
+}
+
+h2 {
+
+    font-family: 'Comforter', cursive;
+}
